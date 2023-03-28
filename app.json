@@ -37,7 +37,7 @@
     },
     "DATABASE_NAME": {
       "description": "Database cluster name",
-      "value": "Cluster0"
+      "value": ""
     },
     "COLLECTION_NAME": {
       "description": "Database Collection Name",
@@ -56,7 +56,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "eco"
+      "size": "echo"
     }
   }
 }
